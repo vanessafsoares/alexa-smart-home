@@ -12,6 +12,8 @@ List of shell commands to sync with TRIGGERcmd for Alexa Echo Dot.
 ``` 
 bash open-applications.sh
 
+bash kill-applications.sh
+
 ```
 
 ### Tutorial: ###
