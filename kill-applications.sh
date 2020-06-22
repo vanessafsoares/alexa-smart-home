@@ -9,4 +9,3 @@ pkill -a sqlpro\ studio
 pkill -a android\ studio
 pkill -a xcode
 pkill -f terminal
-sudo shutdown -h now
